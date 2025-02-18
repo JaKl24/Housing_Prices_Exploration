@@ -17,11 +17,7 @@ It contains various features related to residential homes, such as:
 ## Project Structure
 ```
 📂 eda-visualization-project
-│-- exploration_housing_prices.ipynb    # Jupyter notebook with EDA & visualization
-|-- exploration_housing_prices.html     # HTML version of the EDA & visualization Jupyter notebook
-|-- exploration_housing_prices_files    
-    |-- figure-html
-        |-- png images                  # All the images needed for the html version of the report        
+│-- exploration_housing_prices.ipynb    # Jupyter notebook with EDA & visualization     
 │-- README.md                           # Project documentation
 ```
 
