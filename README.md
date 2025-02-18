@@ -18,13 +18,18 @@ It contains various features related to residential homes, such as:
 ```
 📂 eda-visualization-project
 │-- exploration_housing_prices.ipynb    # Jupyter notebook with EDA & visualization
+|-- exploration_housing_prices.html     # HTML version of the EDA & visualization Jupyter notebook
+|-- exploration_housing_prices_files    
+    |-- figure-html
+        |-- png images                  # All the images needed for the html version of the report        
 │-- README.md                           # Project documentation
 ```
 
 ## Dependencies
-The project requires the following Python libraries:
+Either you can use the HTML File with your browser or you require the following Python libraries:
 - `jupyter`
 - `pandas`
 - `numpy`
+- `statsmodels`
 - `matplotlib`
 - `seaborn`
